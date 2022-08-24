@@ -1,0 +1,21 @@
+Citations:
+Fundamentals of Computer Graphics, Marschner and Shirley
+Ray Tracing in One Weekend by Peter Shirley
+Perlin Noise (https://en.wikipedia.org/wiki/Perlin_noise)
+Ambient Occlusion (https://en.wikipedia.org/wiki/Ambient_occlusion)
+
+How to run:
+From the Assets directory, run ../RayTracer <lua script> to produce an image with the filename given in the lua script.
+
+Objective list:
+
+1. Supersampling
+2. Additional primitives (plane and cylinder)
+3. Glossy reflection
+4. Refraction
+5. Glossy refraction
+6. Soft shadow
+7. Animation
+8. Ambient occlusion
+9. Bump mapping
+10. Final scene
